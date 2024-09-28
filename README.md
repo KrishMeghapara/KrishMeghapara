@@ -13,10 +13,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmeghapara&label=Profile%20views&color=0e75b6&style=flat" alt="krishmeghapara" /> </p>
 
-<br>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishmeghapara" alt="krishmeghapara" /></a> </p>
+<p align="left"><br> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishmeghapara" alt="krishmeghapara" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krishmeghapara" target="blank"><img src="https://img.shields.io/twitter/follow/krishmeghapara?logo=twitter&style=for-the-badge" alt="krishmeghapara" /></a> </p>
 
