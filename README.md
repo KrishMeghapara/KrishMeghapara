@@ -1,4 +1,3 @@
-![image title](https://github.com/KrishMeghapara)
 - 👋 Hi, I’m @KrishMeghapara
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning in Darshan University 
