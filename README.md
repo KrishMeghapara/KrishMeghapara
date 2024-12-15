@@ -16,7 +16,7 @@
 ## 👨‍💻 **About Me**
 
 - 🌱 I’m currently learning **Full-Stack Development** at **Darshan University**.
-- 👨‍🎓 3rd Semester **B.Tech CSE** Student.
+- 👨‍🎓 4th Semester **B.Tech CSE** Student.
 - 💻 Building interactive websites using **HTML, CSS, JavaScript**, and frameworks like **ReactJS**.
 - 📫 How to reach me **krishmeghapara@gmail.com**.
 - 🏆 Always looking to contribute to **Open-Source** projects.
@@ -26,26 +26,6 @@
 ## 🌟 **Professional Summary**
 
 I am a budding **Frontend Developer** who specializes in building clean, interactive, and responsive web applications using the **MERN stack**. With a passion for **learning** and improving, I have worked on multiple projects that showcase my skills and problem-solving abilities. I love turning **ideas into reality** and collaborating with developers globally.
-
----
-
-## 🚀 **My Projects**
-Here are some of the projects I've worked on:
-
-### 🌐 **WalyWallpaper**  
-- A wallpaper management project built with the **MERN stack**.  
-- Features: Dynamic Shop Page, About Us page with logos, and a modern Navbar.  
-- 🚀 **[Live Demo](#)** | 💻 **[GitHub Repo](#)**  
-
-### 📊 **Student Management System**  
-- A system to manage students and staff with **CRUD** functionalities.  
-- Features: Dashboard, Notification board, and Exam/Result news.  
-- 🔗 **[GitHub Repo](#)**  
-
-### 🕹️ **Red Ball Game**  
-- Developed an engaging platformer game using **JavaScript**.  
-- Focus: Smooth gameplay, animations, and level progression.  
-- 🚀 **[Play Here](#)** | 💻 **[GitHub Repo](#)**  
 
 ---
 
