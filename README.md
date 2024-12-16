@@ -46,19 +46,31 @@ I am a budding **Frontend Developer** who specializes in building clean, interac
 
 ## 📈 **My GitHub Stats**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishmeghapara&show_icons=true&locale=en&layout=compact" alt="krishmeghapara" />
-</p>
+<div align="center">
+  
+  <!-- Overall Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&locale=en&theme=radical" 
+    alt="Overall Stats" 
+    style="border-radius: 10px; margin-bottom: 20px;" />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=krishmeghapara&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    style="border-radius: 10px; margin-bottom: 20px;" />
+  
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=radical" 
+    alt="Streak Stats" 
+    style="border-radius: 10px;" />
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&locale=en&theme=radical" alt="krishmeghapara" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=radical" alt="krishmeghapara" />
-</p>
+</div>
 
 ---
+
+
 
 ## 🔗 **Connect With Me**
 
