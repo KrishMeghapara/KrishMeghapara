@@ -69,3 +69,6 @@ I am a budding **Frontend Developer** who specializes in building clean, interac
   <a href="https://www.hackerrank.com/profile/krishmeghapara2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank"/></a>
   <a href="https://leetcode.com/u/KrishMeghapara/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
+
+---
+<p align="center">⭐️ Thank you for visiting my profile! Feel free to collaborate or reach out. ⭐️</p>
