@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=krishmeghapara&label=Profile%20views&color=0e75b6&style=flat" alt="krishmeghapara" />
   <img src="https://img.shields.io/github/followers/krishmeghapara?style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/krishmeghapara?style=social" alt="stars" />
