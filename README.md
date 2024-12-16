@@ -62,7 +62,7 @@ I am a budding **Frontend Developer** who specializes in building clean, interac
   
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMeghapara&theme=radical" 
     alt="Streak Stats" 
     style="border-radius: 10px;" />
 
