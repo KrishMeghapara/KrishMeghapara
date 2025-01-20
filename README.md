@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Meghapara</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | MERN Stack Enthusiast | From India 🇮🇳</h3>
+![Tracking Pixel](https://your-tracking-server/pixel.png)
 
 ---
 
