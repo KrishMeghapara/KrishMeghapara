@@ -1,87 +1,77 @@
 <h1 align="center">Hi 👋, I'm Krish Meghapara</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer | MERN Stack Enthusiast | From India 🇮🇳</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | B.Tech CSE @ Darshan University | Building Clean & Smart Solutions</h3>
 
----
-
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishmeghapara&label=Profile%20views&color=0e75b6&style=flat" alt="krishmeghapara" />
   <img src="https://img.shields.io/github/followers/krishmeghapara?style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/krishmeghapara?style=social" alt="stars" />
 </p>
 
----
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+## 👨‍💻 About Me
 
-## 👨‍💻 **About Me**
-
-- 🌱 I’m currently learning **Full-Stack Development** at **Darshan University**.
-- 👨‍🎓 5th Semester **B.Tech CSE** Student.
-- 💻 Building interactive websites using **HTML, CSS, JavaScript**, and frameworks like **ReactJS**.
-- 📫 How to reach me **krishmeghapara@gmail.com**.
-- 🏆 Always looking to contribute to **Open-Source** projects.
-
----
-
-## 🌟 **Professional Summary**
-
-I am a budding **Frontend Developer** who specializes in building clean, interactive, and responsive web applications using the **MERN stack**. With a passion for **learning** and improving, I have worked on multiple projects that showcase my skills and problem-solving abilities. I love turning **ideas into reality** and collaborating with developers globally.
+- 🎓 B.Tech Computer Science student @ **Darshan University**
+- 💻 Passionate about building smart, scalable web apps
+- ⚡ Focused on **ASP.NET Core**, **SQL Server**, **ADO.NET**, **Python**, and **Data Mining**
+- 🌱 Always learning, always shipping meaningful projects
+- 🧠 I enjoy designing dashboards, games & interactive user experiences
+- 📫 Reach me at: **krishmeghapara@gmail.com**
+- 🚀 Let’s connect and create something amazing!
 
 ---
 
-## 💻 **Languages and Tools I Use**
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+### 💻 Languages & Frameworks:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web & Backend:
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Database & Tools:
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=radical" height="180" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmeghapara&layout=compact&theme=radical" height="130" />
 </p>
 
 ---
 
-## 📈 **My GitHub Stats**
+## 🌱 2025 Goals
 
-<div align="center">
-  
-  <!-- Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&locale=en&theme=radical" 
-    alt="Overall Stats" 
-    style="border-radius: 10px; margin-bottom: 20px;" />
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=krishmeghapara&show_icons=true&locale=en&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    style="border-radius: 10px; margin-bottom: 20px;" />
-  
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMeghapara&theme=radical" 
-    alt="Streak Stats" 
-    style="border-radius: 10px;" />
-
-</div>
+- 🔨 Build 5+ professional projects
+- 🌐 Learn and use Entity Framework + ASP.NET APIs
+- 📚 Deepen skills in backend development and SQL optimization
+- 🌟 Contribute to Open Source or internships
 
 ---
 
-
-
-
-## 🔗 **Connect With Me**
+## 🌍 Let's Connect
 
 <p align="left">
-  <a href="https://twitter.com/krishmeghapara" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/krish-meghapara-49571b2a7/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/krishmeghapara" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/krish_meghapara/" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.hackerrank.com/profile/krishmeghapara2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank"/></a>
-  <a href="https://leetcode.com/u/KrishMeghapara/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/KrishMeghapara/" target="blank"><img src="https://img.icons8.com/ios-filled/48/000000/leetcode.png" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/krishmeghapara2" target="blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png" alt="HackerRank"/></a>
 </p>
 
 ---
-<p align="center">⭐️ Thank you for visiting my profile! Feel free to collaborate or reach out. ⭐️</p>
+
+<p align="center">⭐️ Thanks for visiting my profile! Let’s build, learn, and grow together. ⭐️</p>
