@@ -16,7 +16,7 @@
 ## 👨‍💻 **About Me**
 
 - 🌱 I’m currently learning **Full-Stack Development** at **Darshan University**.
-- 👨‍🎓 4th Semester **B.Tech CSE** Student.
+- 👨‍🎓 5th Semester **B.Tech CSE** Student.
 - 💻 Building interactive websites using **HTML, CSS, JavaScript**, and frameworks like **ReactJS**.
 - 📫 How to reach me **krishmeghapara@gmail.com**.
 - 🏆 Always looking to contribute to **Open-Source** projects.
