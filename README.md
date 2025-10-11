@@ -30,6 +30,16 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
@@ -62,6 +72,45 @@
 
 ---
 
+## 🛠️ Tech Stack Deep Dive
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 💻 **Backend**
+- ASP.NET Core Web API
+- RESTful Services
+- Microservices
+- Entity Framework
+- C# Programming
+
+</td>
+<td align="center">
+
+### 🎨 **Frontend**
+- React.js Components
+- Bootstrap/Tailwind
+- Responsive Design
+- Component Architecture
+- JavaScript/ES6+
+
+</td>
+<td align="center">
+
+### 🗄️ **Database**
+- SQL Server Management
+- Query Optimization
+- Database Design
+- ADO.NET
+- Performance Tuning
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Performance Analytics
 
 <div align="center">
@@ -78,32 +127,48 @@
 
 ---
 
-## 🎯 Strategic Roadmap 2025
+## 📈 Contribution Analytics
+
+<div align="center">
+
+![Contribution Heatmap](https://ghchart.rshah.org/6366f1/krishmeghapara)
+
+*Consistent coding contributions and open-source involvement*
+</div>
+
+---
+
+## 🎯 Current Status
+
+<div align="center">
+
+![Currently Working On](https://img.shields.io/badge/Currently-Building%20Full%20Stack%20Apps-blue?style=for-the-badge)
+![Availability](https://img.shields.io/badge/Availability-Open%20to%20Opportunities-green?style=for-the-badge)
+
+</div>
+
+---
+
+## 💭 Development Philosophy
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🏗️ **Project Portfolio**
-Build **5+ production-ready** applications showcasing full-stack expertise
-
-</td>
-<td align="center" width="25%">
-
-### 🔧 **Technical Mastery**
-Master **Entity Framework** and advanced **ASP.NET Core** patterns
+### 🎯 **Clean Code First**
+> Writing maintainable, scalable code with best practices and patterns
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 📊 **Database Excellence**
-Achieve expertise in **SQL optimization** and **database architecture**
+### 🔄 **Agile Mindset**
+> Iterative development with continuous integration and delivery
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🌟 **Professional Growth**
-Secure **internship opportunities** and contribute to **open-source projects**
+### 📚 **Lifelong Learning**
+> Constantly updating skills and exploring emerging technologies
 
 </td>
 </tr>
@@ -123,6 +188,39 @@ Secure **internship opportunities** and contribute to **open-source projects**
 | **Data Analytics** | Python Data Mining | Machine Learning |
 
 </div>
+
+---
+
+## 📞 Let's Collaborate!
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 💼 **Hiring**
+Looking for internship opportunities
+
+</td>
+<td align="center" width="25%">
+
+### 🤝 **Open Source**
+Ready to contribute to meaningful projects
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 **Freelance**
+Available for part-time projects
+
+</td>
+<td align="center" width="25%">
+
+### 📚 **Mentorship**
+Seeking guidance and offering help
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -151,7 +249,17 @@ const krishMeghapara = {
     askMeAbout: ["ASP.NET Core", "SQL Server", "Python", "Web Development"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
+
 ```
+
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+![Visitor Map](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkrishmeghapara&label=VISITORS&countColor=%23666&labelColor=%231e293b)
+
+</div>
 
 ---
 
@@ -167,6 +275,6 @@ const krishMeghapara = {
 
 ⭐ **Star my repositories if you find them helpful!** ⭐
 
-*Last updated: January 2025*
+*Last updated: October 2025*
 
 </div>
