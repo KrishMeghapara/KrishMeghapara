@@ -176,21 +176,6 @@
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🎯 **Focus Areas** | 📈 **Progress** | 🚀 **Next Steps** |
-|:------------------:|:---------------:|:------------------:|
-| **Backend Development** | ASP.NET Core APIs | Microservices Architecture |
-| **Database Design** | SQL Server Optimization | NoSQL Integration |
-| **Frontend Skills** | React Components | Next.js & TypeScript |
-| **Data Analytics** | Python Data Mining | Machine Learning |
-
-</div>
-
----
-
 ## 📞 Let's Collaborate!
 
 <table align="center">
