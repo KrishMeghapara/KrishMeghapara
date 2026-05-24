@@ -173,7 +173,7 @@ Next.js · API Routes · SQL Server · RBAC
   <img alt="github-snake" src="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚙️ *To enable the snake animation, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo*
+> ⚙️ *To enable the snake animation, add the [GitHub Action](https://github.com/KrishMeghapara/KrishMeghapara/blob/main/workflows/snake.yml) to your profile repo*
 
 </div>
 
