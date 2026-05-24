@@ -1,76 +1,117 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Krish%20Meghapara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20B.Tech%20CSE%202027&descAlignY=58&descSize=16" />
+</div>
 
-# Hey, I'm Krish Meghapara 👋
+<div align="center">
 
-### Full Stack Developer · B.Tech CSE @ Darshan University · Class of 2027
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+that+ship+%F0%9F%9A%80;React+%7C+Next.js+%7C+ASP.NET+Core;From+database+schema+to+deployed+UI;Open+to+internship+%26+full-time+roles)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+Core;Building+real+products+that+solve+real+problems)](https://git.io/typing-svg)
+</div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=krishmeghapara&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/krishmeghapara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KrishMeghapara/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KrishMeghapara/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishmeghapara&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/krishmeghapara)
 
 </div>
 
 ---
 
-## About Me
+## ⚡ Who am I?
 
-I'm a final-year Computer Science student who builds full-stack applications end to end — from database schema to deployed frontend. I care about clean architecture, readable code, and shipping things that actually work.
+```typescript
+const krish = {
+  role        : "Full Stack Developer",
+  university  : "Darshan University — B.Tech CSE (2023 → 2027)",
+  stack       : ["React", "Next.js", "ASP.NET Core", "SQL Server", "PostgreSQL"],
+  auth        : ["JWT", "Google OAuth"],
+  currentFocus: ["System Design", "DSA", "Cracking Placements"],
+  achievement : "Top 10 — Code-A-Thon @ Frolic 2025 (State Level)",
+  available   : true, // open to internship & full-time
+  contact     : "krishmeghapara@gmail.com"
+};
+```
 
-- 🔭 Currently building: full-stack web apps with React + ASP.NET Core
-- 🌱 Learning: advanced SQL, system design, DSA
-- 🏆 Participated in Code-A-Thon at Frolic 2025 — State Level Tech Fest
-- 💬 Ask me about: React, Next.js, ASP.NET Core, SQL Server, JWT auth
-- 📫 Reach me at: [krishmeghapara@gmail.com](mailto:krishmeghapara@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 QuickMart — Full Stack E-Commerce Platform
-> React · ASP.NET Core · SQL Server · JWT · Google OAuth · Entity Framework
-
-A production-ready e-commerce platform with clean separation of concerns between frontend and API.
-
-- Secure authentication using **JWT** and **Google OAuth**
-- Interactive store locator using **Leaflet.js** maps
-- RESTful APIs with **Entity Framework Core** migrations
-- Role-based access and cart/order management
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+> I don't just write code — I build **products**. From designing the database schema to deploying the frontend, I own the full stack. I care about clean architecture, fast APIs, and UIs that actually feel good to use.
 
 ---
 
-### ❤️ CardioPredict — ML-Based Cardiovascular Risk Prediction
-> React · Python · Scikit-learn · Random Forest · REST API
+## 🏗️ What I've Built
 
-An end-to-end machine learning system for heart disease risk prediction.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Trained a **Random Forest** model on health parameter datasets
-- Built a clean **React** frontend for real-time risk score display
-- Integrated the trained ML model via **REST API** for live predictions
+### 🛒 QuickMart
+**Full Stack E-Commerce Platform**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+React · .NET Core · SQL Server · JWT · OAuth
 
----
+- End-to-end e-commerce with clean API separation
+- Secure auth via **JWT** + **Google OAuth**
+- Store locator using **Leaflet.js** maps
+- Entity Framework Core + RESTful APIs
 
-### 📋 SPMS — Student Project Management System
-> Next.js · Next.js API Routes · SQL Server · Role-Based Access Control
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/KrishMeghapara)
 
-A full-stack project management system built entirely in Next.js — no separate backend.
+</td>
+<td width="50%" valign="top">
 
-- Server-side API routes replacing a traditional backend
-- **Role-based access control** for Admins, Staff, and Students
-- Project tracking, team management, meeting scheduling
-- PDF and Excel **report export** features
+### ❤️ CardioPredict
+**ML-Based Heart Risk Prediction**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+React · Python · Scikit-learn · Random Forest
+
+- Trained **Random Forest** on health parameters
+- Live risk prediction via REST API integration
+- Clean React UI with real-time result display
+- End-to-end ML pipeline from data to deployment
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/KrishMeghapara)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 SPMS
+**Student Project Management System**
+
+Next.js · API Routes · SQL Server · RBAC
+
+- Full-stack in Next.js — no separate backend
+- **Role-based access** for Admin, Staff, Students
+- Project tracking + meeting scheduling
+- PDF & Excel report export
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/KrishMeghapara)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 More Coming Soon...
+**Always building something new**
+
+- Exploring system design patterns
+- Working on DSA problem sets daily
+- Applying for internships & full-time roles
+
+[![LeetCode](https://img.shields.io/badge/See%20my%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KrishMeghapara/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -81,23 +122,27 @@ A full-stack project management system built entirely in Next.js — no separate
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Auth
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Auth & Tools
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+</div>
 
 ---
 
@@ -105,14 +150,30 @@ A full-stack project management system built entirely in Next.js — no separate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmeghapara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmeghapara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> ⚙️ *To enable the snake animation, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo*
 
 </div>
 
@@ -122,38 +183,33 @@ A full-stack project management system built entirely in Next.js — no separate
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💡 Current Focus
+## 📈 Activity Graph
 
-```typescript
-const krish = {
-    degree: "B.Tech Computer Science @ Darshan University (2027)",
-    role: "Full Stack Developer",
-    stack: {
-        frontend: ["React", "Next.js", "HTML5", "CSS3"],
-        backend:  ["ASP.NET Core", "REST APIs", "Entity Framework"],
-        database: ["SQL Server", "PostgreSQL"],
-        auth:     ["JWT", "Google OAuth"],
-        other:    ["Git", "Postman", "Python", "ML"]
-    },
-    currentlyLearning: ["System Design", "DSA", "Advanced SQL"],
-    lookingFor: "Internship / Full-time opportunities",
-    funFact: "I debug with console.log and I'm not ashamed 🐛"
-};
-```
+<div align="center">
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishmeghapara&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to internship and full-time opportunities — let's build something great together!*
+### 💼 Open to internship and full-time opportunities
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
+*If you're building something cool and need a full-stack developer who can own the entire product — let's talk.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 
 </div>
