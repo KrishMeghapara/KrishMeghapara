@@ -22,22 +22,15 @@
 
 ---
 
-## ⚡ Who am I?
+## 👋 About Me
 
-```typescript
-const krish = {
-  role        : "Full Stack Developer",
-  university  : "Darshan University — B.Tech CSE (2023 → 2027)",
-  stack       : ["React", "Next.js", "ASP.NET Core", "SQL Server", "PostgreSQL"],
-  auth        : ["JWT", "Google OAuth"],
-  currentFocus: ["System Design", "DSA", "Cracking Placements"],
-  achievement : "Top 10 — Code-A-Thon @ Frolic 2025 (State Level)",
-  available   : true, // open to internship & full-time
-  contact     : "krishmeghapara@gmail.com"
-};
-```
-
-> I don't just write code — I build **products**. From designing the database schema to deploying the frontend, I own the full stack. I care about clean architecture, fast APIs, and UIs that actually feel good to use.
+- 🎓 B.Tech Computer Science @ **Darshan University** (2023 – 2027)
+- 💼 Full Stack Developer — React, Next.js, ASP.NET Core
+- 🔐 Experienced with **JWT** and **Google OAuth** authentication
+- 🏆 Top 10 — **Code-A-Thon @ Frolic 2025** (State Level Tech Fest)
+- 🌱 Currently focused on **DSA**, **System Design**, and cracking placements
+- 📫 Reach me at **krishmeghapara@gmail.com**
+- ⚡ I don't just write code — I build **products** end to end
 
 ---
 
@@ -163,37 +156,11 @@ Next.js · API Routes · SQL Server · RBAC
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/KrishMeghapara/KrishMeghapara/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> ⚙️ *To enable the snake animation, add the [GitHub Action](https://github.com/KrishMeghapara/KrishMeghapara/blob/main/workflows/snake.yml) to your profile repo*
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishmeghapara&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
