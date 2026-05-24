@@ -1,223 +1,128 @@
 <div align="center">
 
-# Krish Meghapara
+# Hey, I'm Krish Meghapara 👋
 
-### 🚀 Full Stack Developer | Computer Science Engineer | Innovation Enthusiast
+### Full Stack Developer · B.Tech CSE @ Darshan University · Class of 2027
 
-*Building the future, one line of code at a time*
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+Specialist;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+Core;Building+real+products+that+solve+real+problems)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=krishmeghapara&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/krishmeghapara)
-[![GitHub Followers](https://img.shields.io/github/followers/krishmeghapara?style=for-the-badge&color=6366f1&labelColor=1e293b)](https://github.com/krishmeghapara?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/krishmeghapara?style=for-the-badge&color=6366f1&labelColor=1e293b)](https://github.com/krishmeghapara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KrishMeghapara/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+## About Me
 
-> **Passionate Computer Science Engineer** specializing in full-stack development with a focus on creating scalable, efficient, and user-centric applications. Currently pursuing B.Tech at Darshan University while building real-world solutions that bridge technology and innovation.
+I'm a final-year Computer Science student who builds full-stack applications end to end — from database schema to deployed frontend. I care about clean architecture, readable code, and shipping things that actually work.
 
-### 🌟 What Sets Me Apart
-- **🔥 Performance-Driven:** Optimizing applications for speed and scalability
-- **🎨 Design-Conscious:** Creating intuitive interfaces that users love
-- **📊 Data-Focused:** Leveraging analytics to drive informed decisions
-- **🚀 Innovation-Minded:** Always exploring cutting-edge technologies
-
-**📧 Let's Connect:** [krishmeghapara@gmail.com](mailto:krishmeghapara@gmail.com)
+- 🔭 Currently building: full-stack web apps with React + ASP.NET Core
+- 🌱 Learning: advanced SQL, system design, DSA
+- 🏆 Participated in Code-A-Thon at Frolic 2025 — State Level Tech Fest
+- 💬 Ask me about: React, Next.js, ASP.NET Core, SQL Server, JWT auth
+- 📫 Reach me at: [krishmeghapara@gmail.com](mailto:krishmeghapara@gmail.com)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛒 QuickMart — Full Stack E-Commerce Platform
+> React · ASP.NET Core · SQL Server · JWT · Google OAuth · Entity Framework
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+A production-ready e-commerce platform with clean separation of concerns between frontend and API.
 
-</div>
+- Secure authentication using **JWT** and **Google OAuth**
+- Interactive store locator using **Leaflet.js** maps
+- RESTful APIs with **Entity Framework Core** migrations
+- Role-based access and cart/order management
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
 
 ---
 
-## 🛠️ Technical Arsenal
+### ❤️ CardioPredict — ML-Based Cardiovascular Risk Prediction
+> React · Python · Scikit-learn · Random Forest · REST API
 
-<div align="center">
+An end-to-end machine learning system for heart disease risk prediction.
 
-### **Core Technologies**
+- Trained a **Random Forest** model on health parameter datasets
+- Built a clean **React** frontend for real-time risk score display
+- Integrated the trained ML model via **REST API** for live predictions
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+
+---
+
+### 📋 SPMS — Student Project Management System
+> Next.js · Next.js API Routes · SQL Server · Role-Based Access Control
+
+A full-stack project management system built entirely in Next.js — no separate backend.
+
+- Server-side API routes replacing a traditional backend
+- **Role-based access control** for Admins, Staff, and Students
+- Project tracking, team management, meeting scheduling
+- PDF and Excel **report export** features
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishMeghapara)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### **Web Development Stack**
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Database & Backend**
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Backend & Database
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Development Tools**
+### Tools & Auth
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmeghapara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack Deep Dive
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 💻 **Backend**
-- ASP.NET Core Web API
-- RESTful Services
-- Microservices
-- Entity Framework
-- C# Programming
-
-</td>
-<td align="center">
-
-### 🎨 **Frontend**
-- React.js Components
-- Bootstrap/Tailwind
-- Responsive Design
-- Component Architecture
-- JavaScript/ES6+
-
-</td>
-<td align="center">
-
-### 🗄️ **Database**
-- SQL Server Management
-- Query Optimization
-- Database Design
-- ADO.NET
-- Performance Tuning
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Performance Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=krishmeghapara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmeghapara&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmeghapara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmeghapara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
-</div>
-
----
-
-## 📈 Contribution Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Contribution Heatmap](https://ghchart.rshah.org/6366f1/krishmeghapara)
-
-*Consistent coding contributions and open-source involvement*
-</div>
-
----
-
-## 🎯 Current Status
-
-<div align="center">
-
-![Currently Working On](https://img.shields.io/badge/Currently-Building%20Full%20Stack%20Apps-blue?style=for-the-badge)
-![Availability](https://img.shields.io/badge/Availability-Open%20to%20Opportunities-green?style=for-the-badge)
-
-</div>
-
----
-
-## 💭 Development Philosophy
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎯 **Clean Code First**
-> Writing maintainable, scalable code with best practices and patterns
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 **Agile Mindset**
-> Iterative development with continuous integration and delivery
-
-</td>
-<td align="center" width="33%">
-
-### 📚 **Lifelong Learning**
-> Constantly updating skills and exploring emerging technologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 📞 Let's Collaborate!
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 💼 **Hiring**
-Looking for internship opportunities
-
-</td>
-<td align="center" width="25%">
-
-### 🤝 **Open Source**
-Ready to contribute to meaningful projects
-
-</td>
-<td align="center" width="25%">
-
-### 🎯 **Freelance**
-Available for part-time projects
-
-</td>
-<td align="center" width="25%">
-
-### 📚 **Mentorship**
-Seeking guidance and offering help
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krishmeghapara)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krish_meghapara/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KrishMeghapara/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/krishmeghapara2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishmeghapara&theme=nord&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -226,40 +131,29 @@ Seeking guidance and offering help
 ## 💡 Current Focus
 
 ```typescript
-const krishMeghapara = {
-    education: "B.Tech Computer Science @ Darshan University",
-    currentlyLearning: ["Entity Framework", "Advanced SQL", "React Ecosystem"],
-    workingOn: ["Full Stack Web Applications", "Data Analytics Projects"],
-    lookingFor: ["Internship Opportunities", "Open Source Contributions"],
-    askMeAbout: ["ASP.NET Core", "SQL Server", "Python", "Web Development"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+const krish = {
+    degree: "B.Tech Computer Science @ Darshan University (2027)",
+    role: "Full Stack Developer",
+    stack: {
+        frontend: ["React", "Next.js", "HTML5", "CSS3"],
+        backend:  ["ASP.NET Core", "REST APIs", "Entity Framework"],
+        database: ["SQL Server", "PostgreSQL"],
+        auth:     ["JWT", "Google OAuth"],
+        other:    ["Git", "Postman", "Python", "ML"]
+    },
+    currentlyLearning: ["System Design", "DSA", "Advanced SQL"],
+    lookingFor: "Internship / Full-time opportunities",
+    funFact: "I debug with console.log and I'm not ashamed 🐛"
 };
-
 ```
 
-
-## 🌍 Visitor Map
-
-<div align="center">
-
-![Visitor Map](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkrishmeghapara&label=VISITORS&countColor=%23666&labelColor=%231e293b)
-
-</div>
-
 ---
 
 <div align="center">
 
-### 🚀 **"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
+*Open to internship and full-time opportunities — let's build something great together!*
 
-**Ready to collaborate on your next big idea?** Let's build something extraordinary together!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
-
----
-
-⭐ **Star my repositories if you find them helpful!** ⭐
-
-*Last updated: October 2025*
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmeghapara/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmeghapara@gmail.com)
 
 </div>
